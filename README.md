@@ -1,10 +1,11 @@
 # sql_projects
 This file is about sql and sql queries and projects in order for me to consolidate all the information I learned about sql
 
-### Topics and Projects
-| Syntax | Description |
-| ----------- | ----------- |
-| Sales Analysis | [title](https://www.example.com) |
-| Sql | Text |
-| Python | Text |
-| Tableau /Power BI| Text |
+SQL-Portfolio-Projects/
+├── Analyze_International_Debt_Statistics/
+│   └── queries.sql
+│   └── analysis_report.md
+├── The_Oldest_Building_In_The_World/
+│   └── queries.sql
+│   └── results.csv
+└── README.md
