@@ -3,5 +3,5 @@ This file is about sql and sql queries and projects in order for me to consolida
 
 | Project Name | Description | Topic |
 |--------------|-------------|-------|
-| [Analyze International Debt Statistics](./Analyze_International_Debt_Statistics) | Wrote SQL queries to explore World Bank debt data | Data manipulation, importing and cleaning |
+| [Sales & Customer Analytics Dashboard](./Sales & Customer Analytics Dashboard) | Analyze a fictional food business database to extract insights on sales performance, customer behavior, and product trends using SQL queries. |
 | [The Oldest Building In The World](./The_Oldest_Building_In_The_World) | Analyzed data on the world’s oldest businesses | Data manipulation and joins |
