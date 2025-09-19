@@ -20,3 +20,4 @@ CREATE TABLE item_sales
 	gross_sales NUMERIC (13,2),
 	net_sales NUMERIC (13,2)
 );
+
