@@ -50,5 +50,7 @@ Customer Insights
 
 1.	Find the top 10 customers by total spending.
 
-This is the list of customers who ordered.
+This is the list of customers who ordered the most
+
+
 
