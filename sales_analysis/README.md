@@ -46,23 +46,21 @@ I used the export wizard window for me to upload data on my table. I’ll just m
 ### Step 2: Write Analytical SQL Queries
 
 
-Customer Insights
+### 1. Customer Insights
 
-Find the top 10 customers by total spending.
-
-This is the list of customers who ordered the most.
+_Find the top 10 customers by total spending._
 
 ![top10 with highest spend](https://github.com/JennReqs/sql_project/blob/main/sales_analysis/top10customers.PNG)
 
-Sales Performance
+### 2. Sales Performance
 
-Calculate total sales revenue per month.
+_Calculate total sales revenue per month._
 
 ![revenue per month](https://github.com/JennReqs/sql_project/blob/main/sales_analysis/monthlysales.PNG)
 
-Product Analysis
+### 3. Product Analysis
 
-Find the most profitable products.
+_Find the most profitable products._
 
 ![revenue per month](https://github.com/JennReqs/sql_project/blob/main/sales_analysis/topitemsales.PNG)
 
