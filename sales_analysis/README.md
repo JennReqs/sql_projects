@@ -29,12 +29,15 @@ I created a fictional database using MySQL in a MSSQL Workbench environment.
 |            |b. customer_id|                              
 |            |c. order_date |     
 |            |e. total_amount|
-|4. order_items|b.	order_item_id(PK) |
-|          |order_id(FK)|
-|          |product_id(FK)|
-|          |quantity|
-|          |price|
+|4. order_items|a. order_item_id(PK) |
+|          |b. order_id (FK)|
+|          |c. product_id (FK)|
+|          |d. quantity|
+|          |e. price|
 
+_PK Primary Key - column that has unique value_
+<Br>
+_FK Foreign Key - this has reference to the primary key on the other table_
 
 
 ### Next is to add data to the table.
@@ -42,7 +45,6 @@ I used the export wizard window for me to upload data on my table. I’ll just m
 
 ### Step 2: Write Analytical SQL Queries
 
-Here are some queries that will showcase your skills:
 
 Customer Insights
 
