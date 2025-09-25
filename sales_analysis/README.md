@@ -12,32 +12,30 @@ I created a fictional database using MySQL in a MSSQL Workbench environment.
 
 
 ### Creating the four tables
-1.	customers
-     customer_id (PK) – have unique values
-  	 name
-  	email
-  	city
-  	signup_date
 
-3.	products
+     
+| Table Name | Column Name |
+|--------------|-------------|
+|1. customers|a. customer_id (PK)|
+|            |b. name        |
+|            |c. email       |
+|            |d. city        |
+|            |e. signup_date|
+|2. products|a. product_id (PK)  |
+|            |b. product_name |
+|            |c. category     |
+|            |d. price        |
+| 3. orders|a.	order_id (PK)|
+|            |b. customer_id|                              
+|            |c. order_date |     
+|            |e. total_amount|
+|4. order_items|b.	order_item_id(PK) |
+|          |order_id(FK)|
+|          |product_id(FK)|
+|          |quantity|
+|          |price|
 
-  a.	product_id (PK) - have unique values
-  b.	product_name
-  c.	category
-  d.	price
 
-3.	orders
-  a.	order_id (PK) - have unique values
-  a.	customer_id (FK) - this has reference to the primary key on the customer’s table.
-  b.	order_date
-  c.	total_amount
-
-4.	order_items
-   a.	order_item_id (PK) - have unique values
-   b.	order_id (FK) – this has reference to the primary key on the orders table.
-   c.	product_id (FK) - this has reference to the primary key on the product table .
-   d.	quantity
-   e.	price.
 
 ### Next is to add data to the table.
 I used the export wizard window for me to upload data on my table. I’ll just make sure the values is correct like the data types and format especially the date format (yyyy-mm-dd).
