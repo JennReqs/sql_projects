@@ -3,4 +3,4 @@ This file is about sql and sql queries and projects in order for me to consolida
 
 | Project Name | Description | Topic |
 |--------------|-------------|-------|
-| [sales_analysis](./sales_analysis) | Analyzed data on the world’s oldest businesses | Data manipulation and joins |
+| [sales_analysis](./sales_analysis) | Analyze a fictional food business database to extract insights on sales performance, customer behavior, and product trends using SQL queries. | Data manipulation and joins |
