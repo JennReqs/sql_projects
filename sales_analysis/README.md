@@ -58,13 +58,13 @@ Sales Performance
 
 Calculate total sales revenue per month.
 
-![revenue per month](https://github.com/JennReqs/sql_project/blob/main/sales_analysis/top10customers.PNG)
+![revenue per month](https://github.com/JennReqs/sql_project/blob/main/sales_analysis/monthlysales.PNG)
 
 Product Analysis
 
 Find the most profitable products.
 
-![revenue per month](https://github.com/JennReqs/sql_project/blob/main/sales_analysis/top10customers.PNG)
+![revenue per month](https://github.com/JennReqs/sql_project/blob/main/sales_analysis/topitemsales.PNG)
 
 
 
