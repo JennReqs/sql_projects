@@ -1,4 +1,4 @@
-# sql_projects
+# SQL Projects
 This file is about sql and sql queries and projects in order for me to consolidate all the information I learned about sql
 
 | Project Name   | Description | Topic |
