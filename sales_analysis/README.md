@@ -1,5 +1,5 @@
 
-## Project Title: Sales & Customer Analytics Dashboard (SQL-based)**
+## Sales & Customer Analysis**
 Objective:
 Analyze a fictional food business database to extract insights on sales performance, customer behavior, and product trends using SQL queries.
 
