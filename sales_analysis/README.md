@@ -48,11 +48,29 @@ I used the export wizard window for me to upload data on my table. I’ll just m
 
 Customer Insights
 
-1.	Find the top 10 customers by total spending.
+Find the top 10 customers by total spending.
 
 This is the list of customers who ordered the most.
 
-![top10 with highest spend]()
+![top10 with highest spend](https://github.com/JennReqs/sql_project/blob/main/sales_analysis/top10customers.PNG)
+
+Sales Performance
+
+Calculate total sales revenue per month.
+
+![revenue per month](https://github.com/JennReqs/sql_project/blob/main/sales_analysis/top10customers.PNG)
+
+Product Analysis
+
+Find the most profitable products.
+
+![revenue per month](https://github.com/JennReqs/sql_project/blob/main/sales_analysis/top10customers.PNG)
+
+
+
+
+
+
 
 
 
