@@ -22,5 +22,10 @@
    
 ![  failed vs success](https://github.com/JennReqs/sql_projects/blob/main/bank_transactions/failedvssucesstrans.png)
 2. What’s the breakdown of transaction types (Deposit, Withdrawal, Transfer)?
-![  failed vs success](https://github.com/JennReqs/sql_projects/blob/main/bank_transactions/failedvssucesstrans.png)
+![  transaction type](https://github.com/JennReqs/sql_projects/blob/main/bank_transactions/breakdowntranstype.png)
 3. How many transactions were flagged as fraudulent?
+
+![  flagged transaction](https://github.com/JennReqs/sql_projects/blob/main/bank_transactions/flagged_transaction.png)
+
+![  flagged transaction type](https://github.com/JennReqs/sql_projects/blob/main/bank_transactions/flagged_transaction_device.png)
+
