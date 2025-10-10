@@ -17,3 +17,5 @@
 |Slice Bandwidth     |(Mbps): The bandwidth available in the network slice used for the transaction.|
 |PIN Code:           |A four-digit security code used for the transaction (masked for privacy).|
 
+### What insights can I extract that are meaningful for the bank, operations, or risk management?”
+1. How many transactions were completed successfully vs failed?
