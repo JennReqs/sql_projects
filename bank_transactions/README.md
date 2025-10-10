@@ -19,3 +19,7 @@
 
 ### What insights can I extract that are meaningful for the bank, operations, or risk management?”
 1. How many transactions were completed successfully vs failed?
+![top10 with highest spend](https://github.com/JennReqs/sql_project/blob/main/sales_analysis/top10customers.PNG)
+
+2. What’s the breakdown of transaction types (Deposit, Withdrawal, Transfer)?
+3. How many transactions were flagged as fraudulent?
