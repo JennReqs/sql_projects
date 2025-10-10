@@ -1,8 +1,8 @@
 This dataset consists of 1000 synthetic banking transactions, including a variety of transaction types such as transfers, withdrawals, and deposits. Each record contains detailed attributes like transaction ID, sender and receiver account IDs, transaction amount, timestamp, transaction status (success or failure), fraud flag, geolocation, device used, network slice ID, latency, slice bandwidth, and the associated PIN code. The dataset is designed for use in financial data analysis, fraud detection, and network performance monitoring, providing a rich set of features for machine learning applications related to transaction analysis and fraud detection.
 
 Key Features:
-
-Transaction ID: Unique identifier for each transaction, ensuring traceability.
+_________________ _____________________________________________________________
+|Transaction ID: |Unique identifier for each transaction, ensuring traceability.|
 Sender Account ID: The account number of the transaction sender.
 Receiver Account ID: The account number of the transaction receiver.
 Transaction Amount: The monetary value involved in the transaction.
